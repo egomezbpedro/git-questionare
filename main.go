@@ -1,7 +1,7 @@
 package git_questionare
 
 import (
-    question "git-questionare/pkg/question"
+    question "git_questionare/pkg/question"
 )
 
 func GitIntermediate() question.Questionare {
