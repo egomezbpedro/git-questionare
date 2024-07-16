@@ -1,4 +1,4 @@
-package gitquestionare
+package git_questionare
 
 import (
     question "git-questionare/pkg/question"
